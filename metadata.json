@@ -1,0 +1,6 @@
+{
+  "name": "DreamSpace AI - Hotel AI Receptionist",
+  "description": "AI hotel receptionist startup platform that automates guest enquiries, facility guidance, and reservation assistance 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
